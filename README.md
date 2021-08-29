@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on CCE dpt. of IIUC
 - 🤔 I’m looking for help with Advance JS
 - 💬 Ask me about CSS animation
-- 📫 How to reach me: insta: @tahjib07, email: tahjibahmedsiddique@gmail.com
+- 📫 How to reach me: [Instagram- @tahjib07](https://www.instagram.com/tahjib07/), email: tahjibahmedsiddique@gmail.com
 - ⚡ Fun fact: I am introvert with tons of humour
