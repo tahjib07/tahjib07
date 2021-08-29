@@ -7,6 +7,8 @@
 - 💬 Ask me about CSS animation
 - 📫 How to reach me: [Instagram- @tahjib07](https://www.instagram.com/tahjib07/), email: tahjibahmedsiddique@gmail.com
 - ⚡ Fun fact: I am introvert with tons of humour
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahjib07&show_icons=true&locale=en&layout=compact_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="tahjib07" />
-<img src="https://github-readme-stats.vercel.app/api?username=tahjib07&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=tahjib07&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=tahjib07&show_icons=true&locale=en&layout=compact_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="tahjib07" />
+</p>
 
