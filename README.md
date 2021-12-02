@@ -8,7 +8,7 @@
 -  📫 How to reach me: Email: tahjibahmedsiddique@gmail.com, Instagram- [@tahjib07](https://www.instagram.com/tahjib07/), Linkedin- [@tahjib07](https://www.linkedin.com/in/tahjib07/)
 - ⚡ Fun fact: I am introvert with tons of humour
 
- <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=tahjib07&show_icons=true&locale=en&layout=compact_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="tahjib07" />
+ 
   <img src="https://github-readme-stats.vercel.app/api?username=tahjib07&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
  
 
